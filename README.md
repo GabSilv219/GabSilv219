@@ -1,7 +1,7 @@
 # Hey, bom te ver aqui! 👋
 
 ### Bem-vindo(a) a minha página!
-#### Eu sou o Gabriel Silva, sou um desenvolvedor Fullstack, moro em Manaus/Amazonas no Brasil, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fametro, estou no 5° e último período, e estou em busca da minha primeira vaga para atuar como Desenvolvedor! 
+#### Me chamo Gabriel Silva, sou um desenvolvedor Fullstack, moro em Manaus/Amazonas no Brasil, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fametro, estou no 5° e último período, e estou em busca da minha primeira vaga para atuar como Desenvolvedor! 
 
 ### Algumas tecnologias que eu uso no meu dia 👨‍💻
 <div style="display: inline_block"><br/>
